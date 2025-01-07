@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "965811408475",
+    "project_id": "pro-health-80169",
+    "storage_bucket": "pro-health-80169.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965811408475:android:0b7704c67aad1dcc8bb97e",
+        "android_client_info": {
+          "package_name": "com.extreme.prohealth"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965811408475-f4mu2h47bitoegtlqf528bo2vo0oftde.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9KcCOicYAmlWBcOlqni33mYU2pnQ1i44"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965811408475-f4mu2h47bitoegtlqf528bo2vo0oftde.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
